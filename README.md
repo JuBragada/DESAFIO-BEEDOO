@@ -8,13 +8,14 @@
 
 ## 1. Introdução
 
-A tela de cursos do Beedoo Chalenge tem como principal finalidade desenvolver e disponibilizar um sistema de controle de curso, em que seja possível realizar cadastro, listagem e exclusão de produtos. 
+A tela de cursos do Beedoo Chalenge tem como principal finalidade desenvolver e disponibilizar um sistema de controle de cursos, em que seja possível realizar cadastro, listagem e exclusão de cursos. 
 
 A tela possui três serviços principais ao usuário:
 1. Criação de Cursos
 2. Listagem de Cursos
 3. Exclusão de Cursos
-Pensando nos serviços oferecidos foi realizado um planejamento voltado aos três cenários principais com casos de teste de sucesso e erro.
+
+Pensando nos serviços oferecidos, foi realizado um planejamento voltado aos três cenários principais com casos de teste de sucesso e erro.
 
 - O ambiente de teste para esta aplicação é o: 
 https://creative-sherbet-a51eac.netlify.app/
@@ -32,6 +33,7 @@ Serão utilizadas as seguintes ferramentas para testes:
 Testes manuais escritos em gherkin:
 
 [Plano de Teste](https://docs.google.com/spreadsheets/d/1i86VwolDFJ9pax6dLbLugFaQ9IWuTpX92nbK5UbtvXo/edit?usp=sharing)
+
 [Evidência de Testes](https://drive.google.com/drive/folders/1kqYQKsw0L6V5rS2lBl5y8Ipg_6Z-rBNv?usp=drive_link)
 
 ## 4. Classificação dos Bugs:
@@ -43,5 +45,7 @@ Testes manuais escritos em gherkin:
 | Leve  | Pequenos erros visuais ou ortográficos| 
 
 Os Bugs serão documentados e classificados seguindo metodologia acima descrita:
+
 [Report de Bugs](https://docs.google.com/spreadsheets/d/1Mj0pqTYukXml5imlUmLiJcBGKx2DqLB56SpDCFLVoTY/edit?usp=sharing)
+
 [Evidência de Bugs](https://drive.google.com/drive/folders/1i9KAYcjAigu9tS9wDZ2plMA8Y0tsPWt9?usp=drive_link)
