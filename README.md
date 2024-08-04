@@ -26,8 +26,8 @@ Serão utilizadas as seguintes ferramentas para testes:
 
 | Tipo de Teste  | Ferramenta  | 
 |-----------|-----------|
-| Teste  de usabilidade, compatibilidade e funcionalidade Web  | Computador com Windows 11 Pro ; Navegadores Web (Google Chrome e Edge)   | 
-| Teste de usabilidade, compatibilidade e funcionabilidade mobile   | Iphone com iOS 18.0 beta 4   | 
+| Teste  de compatibilidade e funcionalidade Web  | Computador com Windows 11 Pro ; Navegadores Web (Google Chrome e Edge)   | 
+| Teste de compatibilidade e funcionabilidade mobile   | Iphone com iOS 18.0 beta 4   | 
 
 ## 3. Estratégia de Teste
 Testes manuais escritos em gherkin:
